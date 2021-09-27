@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - master
+      - get-codepoint-column-publish
     tags:
       - v*
   pull_request:

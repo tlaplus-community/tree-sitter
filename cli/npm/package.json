@@ -1,13 +1,13 @@
 {
-  "name": "tree-sitter-cli",
-  "version": "0.20.0",
-  "author": "Max Brunsfeld",
+  "name": "@tlaplus/tree-sitter-cli",
+  "version": "0.20.1-1",
+  "author": "Andrew Helwer",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/tree-sitter/tree-sitter.git"
+    "url": "http://github.com/tlaplus-community/tree-sitter.git"
   },
-  "description": "CLI for generating fast incremental parsers",
+  "description": "https://github.com/tlaplus-community/tree-sitter-tlaplus/issues/41",
   "keywords": [
     "parser",
     "lexer"
